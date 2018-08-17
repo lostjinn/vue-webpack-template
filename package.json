@@ -5,17 +5,17 @@
   "main": "meta.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/zhaomenghuan/vue-webpack-template.git"
+    "url": "git+ssh://git@github.com/lostjinn/vue-webpack-template.git"
   },
   "keywords": [
     "vue",
     "webpack",
     "template"
   ],
-  "author": "zhaomenghuan",
+  "author": "lostjinn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhaomenghuan/vue-webpack-template/issues"
+    "url": "https://github.com/lostjinn/vue-webpack-template/issues"
   },
-  "homepage": "https://github.com/zhaomenghuan/vue-webpack-template#readme"
+  "homepage": "https://github.com/lostjinn/vue-webpack-template#readme"
 }
